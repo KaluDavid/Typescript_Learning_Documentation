@@ -50,17 +50,9 @@ This repository serves as a documentation of my journey in learning **TypeScript
 
 ---
 
-## 🚀 **My Progress**  
-I started my TypeScript journey by learning basic type annotations, function return types, and optional parameters. Now, I am working on **complex types**, such as tuples and interfaces, and diving into **object-oriented programming** in TypeScript.  
-
-Up next, I plan to work on **advanced concepts** like generics, utility types, and mapped types. To solidify my knowledge, I will build a real-world **React + TypeScript project** and participate in **TypeScript coding challenges**.  
-
----
-
 ## 📂 Resources Used  
-- **Codecademy – Learn TypeScript**  
-- **TypeScript Official Documentation** (https://www.typescriptlang.org/docs/)  
-- **YouTube Tutorials & Blogs**  
+- **Codecademy – Learn TypeScript[https://www.codecademy.com/courses/learn-typescript]**  - Course 
+- **ChatGpt** - To break and understand complex context.  
 - **Hands-on coding challenges & projects**  
 
 ---
@@ -70,19 +62,6 @@ Up next, I plan to work on **advanced concepts** like generics, utility types, a
 - Use TypeScript effectively in **frontend (React)** and **backend (Node.js)** projects  
 - Contribute to **open-source** TypeScript projects  
 - Build a **full-fledged** TypeScript project from scratch  
-
----
-
-## 💡 Reflections  
-TypeScript has helped me write more **reliable and scalable** code. The type safety feature reduces runtime errors, making debugging much easier. My next step is to **practice more complex applications** and explore **best practices for TypeScript development**.  
-
----
-
-## 📌 Next Steps  
-- Complete **TypeScript course** and review advanced concepts  
-- Build a **TypeScript-powered React project**  
-- Continue solving **TypeScript coding challenges**  
-- Explore TypeScript in **backend development (Node.js, Express)**  
 
 ---
 
